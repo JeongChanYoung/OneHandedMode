@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:50
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:8
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class net.pocketmagic.android.eventinjector4.ChatHeadsService { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class net.pocketmagic.android.eventinjector4.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class net.pocketmagic.android.eventinjector4.SurfaceThread { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class quicklic.quicklic.favorite.ApkListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class quicklic.quicklic.favorite.QuicklicFavoriteService { <init>(...); }
+
